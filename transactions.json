@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "parent_name": "Dita",
+        "child_name": "Diki",
+        "category_id": 1,
+        "amount": 450,
+        "date": "2024-01-05"
+    },
+    {
+        "id": 2,
+        "parent_name": "satu",
+        "child_name": "ayu",
+        "category_id": 2,
+        "amount": 6000,
+        "date": "2024-12-02"
+    },
+    {
+        "id": 3,
+        "parent_name": "putri",
+        "child_name": "Diki",
+        "category_id": 3,
+        "amount": 500,
+        "date": "2024-12-09"
+    },
+    {
+        "id": 4,
+        "parent_name": "siti",
+        "child_name": "difa",
+        "category_id": 2,
+        "amount": 500,
+        "date": "2024-12-08"
+    }
+]
